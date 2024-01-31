@@ -73,7 +73,7 @@
 ###
 
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mrkapln&layout=compact&theme=vision-friendly-dark)](https://github.com/enesdt00/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=enesdt00&layout=compact&theme=vision-friendly-dark)](https://github.com/enesdt00/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=mrkapln&theme=vision-friendly-dark&show_icons=true)](https://github.com/enesdt00)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=enesdt00&theme=vision-friendly-dark&show_icons=true)](https://github.com/enesdt00)
