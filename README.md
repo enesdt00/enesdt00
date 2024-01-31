@@ -3,7 +3,7 @@
 - 🔭 Bachelor in Programming and System Architecture
 - 🌱 I’m currently learning Kotlin and C.
 - 💬 Ask me about java, python, react and sql.
-- 📫 How to reach me: mkaplan.odg.uak@gmail.com
+- 📫 How to reach me: enesderdano@gmail.com
 - ⚡ Fun fact:
 
  <div id="header" align="left">
@@ -73,7 +73,7 @@
 ###
 
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mrkapln&layout=compact&theme=vision-friendly-dark)](https://github.com/mrkapln/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mrkapln&layout=compact&theme=vision-friendly-dark)](https://github.com/enesdt00/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=mrkapln&theme=vision-friendly-dark&show_icons=true)](https://github.com/mrkapln)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=mrkapln&theme=vision-friendly-dark&show_icons=true)](https://github.com/enesdt00)
