@@ -61,9 +61,7 @@
   <a href="https://nodejs.org/en/docs">
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   </a>
-    <a href="[https://docs.C.org/](https://www.jetbrains.com/clion/promo/?">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/C++/C++-original-wordmark.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  </a>
+    
 
 
 
