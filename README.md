@@ -62,7 +62,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   </a>
     <a href="[https://docs.C.org/](https://www.jetbrains.com/clion/promo/?source=google&medium=cpc&campaign=EMEA_en_WEST_Clion_Search&term=c%20download&content=583770065230&gad_source=1&gclid=CjwKCAiAuNGuBhAkEiwAGId4ar41Ei3YEle_LCCjE3itX43YJxYRRubslSfiWNXJPTl6r-718psGbxoCKH4QAvD_BwE)">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/C/C-original-wordmark.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/C++/C++-original-wordmark.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   </a>
 
 
